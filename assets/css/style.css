@@ -1,0 +1,49 @@
+body * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Open Sans';
+}
+
+nav,
+footer {
+    background-color: #E83E8C;
+}
+
+h1 {
+    color: #707070;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: 'Open Sans'bold;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.navbar-brand img {
+    height: 51px;
+}
+
+.icons-section {
+    background-color: #17A2B8;
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.list-group-item,
+.card-link {
+    font-size: 11px;
+}
+
+.card-link {
+    color: #1c7cd5;
+}
